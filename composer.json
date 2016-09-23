@@ -1,0 +1,21 @@
+{
+    "name": "tp5/authorization",
+    "description": "this a demo for build composer packgist",
+    "type": "library",
+    "require": {
+        "php":">=5.5.0" 
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liuzhengjian",
+            "email": "liuzj@whit.ah.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-4":{
+            "Tp5\\Authorization\\": "src/Tp5/Authorization"
+        }
+    }
+}
