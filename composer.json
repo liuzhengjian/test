@@ -1,5 +1,5 @@
 {
-    "name": "tp5/authorization",
+    "name": "liu-tp5/authorization",
     "description": "this a demo for build composer packgist",
     "type": "library",
     "require": {
